@@ -1,2 +1,3 @@
 # hello-world
-initial repository
+
+This is where I write something clever about myself.
